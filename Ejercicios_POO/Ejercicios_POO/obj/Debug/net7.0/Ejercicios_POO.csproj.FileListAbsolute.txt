@@ -1,0 +1,5 @@
+E:\bootcamp\BACKEND\jpg-fe-gc-TA25\Ejercicios_POO\Ejercicios_POO\obj\Debug\net7.0\Ejercicios_POO.csproj.AssemblyReference.cache
+E:\bootcamp\BACKEND\jpg-fe-gc-TA25\Ejercicios_POO\Ejercicios_POO\obj\Debug\net7.0\Ejercicios_POO.GeneratedMSBuildEditorConfig.editorconfig
+E:\bootcamp\BACKEND\jpg-fe-gc-TA25\Ejercicios_POO\Ejercicios_POO\obj\Debug\net7.0\Ejercicios_POO.AssemblyInfoInputs.cache
+E:\bootcamp\BACKEND\jpg-fe-gc-TA25\Ejercicios_POO\Ejercicios_POO\obj\Debug\net7.0\Ejercicios_POO.AssemblyInfo.cs
+E:\bootcamp\BACKEND\jpg-fe-gc-TA25\Ejercicios_POO\Ejercicios_POO\obj\Debug\net7.0\Ejercicios_POO.csproj.CoreCompileInputs.cache
